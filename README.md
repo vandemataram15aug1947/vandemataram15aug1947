@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Antu, a beginner in various fields with a particular interest in power electronics. I have gained some experience in embedded systems through my previous work.
+I'm Antu, a Beginner in Various Fields with a Particular Interest in Power Electronics. I Have Gained Some Experience in embedded systems through my previous work.
 
 - 👀 I’m interested in Power Electronics Hardware Projects.
 - 🌱 I’m currently learning Closed Loop Control of Power Electronics Converters.
