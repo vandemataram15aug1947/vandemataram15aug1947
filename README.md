@@ -6,7 +6,7 @@
 - 🌱 "I’m currently learning Closed Loop Control of Power Electronics Converters Speceially Inverters."
 - 💞️ "I’m Looking to Collaborate on Innovative Power Electronics Projects and Embedded Systems Applications."
 - 📫 How to reach me: [Mail Id: vandemataram15aug1947@gmail.com]| [LinkedIn Profile: https://www.linkedin.com/in/vandemataram1947/]|
-- ⚡ Fun fact: I love hiking and have climbed three of the Seven Summits!
+- ⚡ Fun fact: I Love Hiking and Have Climbed Three of the Seven Summits!
 
 - 😄 Pronouns: [He/Him]
 
