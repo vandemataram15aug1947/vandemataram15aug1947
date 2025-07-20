@@ -5,8 +5,6 @@
 
 <img src="https://github.com/user-attachments/assets/3d825ee0-036b-4a08-8ec6-273d8bdef95e.gif" width="500px" alt="Animated SVPWM">
 
-<img width="300" height="300" alt="gif" src="https://github.com/user-attachments/assets/3d825ee0-036b-4a08-8ec6-273d8bdef95e" />
-
 
 
 - 🔭 I’m currently working on **Single-Phase & Three-Phase Inverter**
