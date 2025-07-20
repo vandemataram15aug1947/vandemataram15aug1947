@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500px" alt="Animated Sine Wave">
 
-<img src="https://github.com/user-attachments/assets/3d825ee0-036b-4a08-8ec6-273d8bdef95e.gif" width="500px" alt="Animated SVPWM">
+<img src="https://github.com/user-attachments/assets/3d825ee0-036b-4a08-8ec6-273d8bdef95e.image" width="500px" alt="Animated SVPWM">
 
 
 
