@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandemataram15aug1947&label=Profile%20views&color=0e75b6&style=flat" alt="vandemataram15aug1947" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vandemataram15aug1947" alt="vandemataram15aug1947" /></a> </p>
+- 🔭 I’m currently working on **Single-Phase & Three-Phase Inverter**
 
-- 🌱 I’m currently learning **Single-Phase & Three-Phase Inverter**
+- 🌱 I’m currently learning **LLC Converter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vandemataram15aug1947?tab=repositories](https://github.com/vandemataram15aug1947?tab=repositories)
 
