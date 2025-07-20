@@ -9,7 +9,7 @@ Passionate and dedicated Power Electronics Hardware Engineer with a strong focus
 
 - 🌱 I’m currently learning **LLC Converter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vandemataram15aug1947?tab=repositories](https://github.com/vandemataram15aug1947?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vandemataram15aug1947?tab=repositories)
 
 - 💬 Ask me about **Embedded C**
 
