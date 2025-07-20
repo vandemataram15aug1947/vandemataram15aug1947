@@ -2,17 +2,12 @@
 
 Passionate and dedicated Power Electronics Hardware Engineer with a strong focus on advanced control algorithms, practical hardware implementation, and embedded firmware development. Experienced in designing both single-phase and three-phase inverter hardware, with hands-on implementation of control strategies such as PI, PR, and [FOC](https://github.com/vandemataram15aug1947/Indirect_Sensor_Based_FOC_of_Three_Phase_ACIM_Using_SVPWM), along with PLL-based grid synchronization for precision integration. Proficient in PWM techniques like [SPWM](https://github.com/vandemataram15aug1947/Single_Phase_Inverter_by_YouT/tree/Single_Phase_Inverter_by_YouT) and [SVPWM](https://github.com/vandemataram15aug1947/SVPWM_Implementation_for_Three_Phase_Two_Level_Inverter) for high-performance inverter operation. Specialized in real-time control of grid-connected PV solar inverters, utilizing [ePWM](https://github.com/vandemataram15aug1947/Code_for_Lab_of_DCPEC/tree/Code_for_Lab_of_DCPEC) generation and [ADC](https://github.com/vandemataram15aug1947/8_Temperature_Sensor_ADC_Register_Base/tree/8_Temperature_Sensor_ADC_Register_Base) integration on precision microcontrollers like the TMS320F28379D. Skilled in tools such as MATLAB/Simulink, PLECS, PSIM, PSpice, LTspice, Proteus, and [Altium Designer](https://github.com/vandemataram15aug1947/Gate_Driver_Circuit_Design_by_Altium/tree/Gate_Driver_Circuit_Design_by_Altium), with strong LaTeX proficiency for creating professional reports and technical documentation. Driven to innovate and contribute to advancements in power conversion and renewable energy systems.
 
-
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500px" alt="Animated Sine Wave">
 
 - 🔭 I’m currently working on **Single-Phase & Three-Phase Inverter**
-
 - 🌱 I’m currently learning **LLC Converter**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vandemataram15aug1947?tab=repositories)
-
 - 💬 Ask me about **Embedded C**
-
 - 📫 How to reach me **vandemataram15aug1947@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
