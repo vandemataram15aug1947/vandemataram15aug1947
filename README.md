@@ -4,6 +4,8 @@
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500px" alt="Animated Sine Wave">
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500px" alt="Animated Sine Wave">
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b71ce3a9-783b-4e90-8ad7-a87d12261392" />
+
 <img src="https://github.com/user-attachments/assets/3d825ee0-036b-4a08-8ec6-273d8bdef95e.image" width="500px" alt="Animated SVPWM">
 
 
