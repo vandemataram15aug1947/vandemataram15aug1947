@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antu Roy</h1>
 <h3 align="center">I am a Power Electronics Engineer from India with a strong passion for developing intuitive user interfaces and embedded control systems. My work bridges the gap between advanced power electronics hardware and intelligent digital control, with a focus on real-time implementation and system efficiency.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vandemataram15aug1947&label=Profile%20views&color=0e75b6&style=flat" alt="vandemataram15aug1947" /> </p>
+
 
 - 🔭 I’m currently working on **Single-Phase & Three-Phase Inverter**
 
