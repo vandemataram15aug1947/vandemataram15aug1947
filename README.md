@@ -2,6 +2,7 @@
 <h3 align="center">I am a Power Electronics Engineer from India with a strong passion for developing intuitive user interfaces and embedded control systems. My work bridges the gap between advanced power electronics hardware and intelligent digital control, with a focus on real-time implementation and system efficiency.</h3>
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500px" alt="Animated Sine Wave">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500px" alt="Animated Sine Wave">
 
 <img src="https://github.com/user-attachments/assets/3d825ee0-036b-4a08-8ec6-273d8bdef95e.image" width="500px" alt="Animated SVPWM">
 
