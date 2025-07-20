@@ -8,7 +8,7 @@ Passionate and Dedicated Power Electronics Hardware Engineer with a Strong Focus
 
 - 🔭 I’m currently working on **Single-Phase & Three-Phase Inverter**
 - 🌱 I’m currently learning **LLC Converter**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vandemataram15aug1947?tab=repositories)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/vandemataram15aug1947?tab=repositories)**
 - 💬 Ask me about **Embedded C**
 - 📫 How to reach me **vandemataram15aug1947@gmail.com**
 
