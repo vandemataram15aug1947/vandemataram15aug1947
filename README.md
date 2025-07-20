@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500px" alt="Animated Sine Wave">
 
-<img width="1898" height="1487" alt="image" src="https://github.com/user-attachments/assets/3d825ee0-036b-4a08-8ec6-273d8bdef95e" />
+<img width="1898" height="1487" alt="gif" src="https://github.com/user-attachments/assets/3d825ee0-036b-4a08-8ec6-273d8bdef95e" />
 
 
 
