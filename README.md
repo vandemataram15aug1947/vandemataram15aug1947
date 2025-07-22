@@ -11,7 +11,7 @@ Passionate and Dedicated Power Electronics Hardware Engineer with a Strong Focus
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://github.com/vandemataram15aug1947/GitHub_Profile_and_Portfolio_Website/blob/081ea9ddae916fa05378c6ae6fee9859e99be6bf/GitHub%20Profile%20Pic.jpg)" width="300px" height="300px" alt="GitHub Profile">
+  <img src="https://github.com/vandemataram15aug1947/GitHub_Profile_and_Portfolio_Website/blob/081ea9ddae916fa05378c6ae6fee9859e99be6bf/GitHub%20Profile%20Pic.jpg" width="300px" height="300px" alt="GitHub Profile">
 </p>
 
 
