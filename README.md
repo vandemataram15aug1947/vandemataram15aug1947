@@ -10,6 +10,12 @@ Passionate and Dedicated Power Electronics Hardware Engineer with a Strong Focus
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px" height="300px" alt="Animated Sine Wave">
 </p>
 
+<p align="center">
+  <img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://github.com/vandemataram15aug1947/GitHub_Profile_and_Portfolio_Website/blob/081ea9ddae916fa05378c6ae6fee9859e99be6bf/GitHub%20Profile%20Pic.jpg)" width="300px" height="300px" alt="GitHub Profile">
+</p>
+
+
+
 - 🔭 I’m currently working on **Single-Phase & Three-Phase Inverter**
 - 🌱 I’m currently learning **LLC Converter**
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/vandemataram15aug1947?tab=repositories)**
