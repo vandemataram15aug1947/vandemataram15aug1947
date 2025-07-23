@@ -29,5 +29,5 @@ Passionate and Dedicated Power Electronics Hardware Engineer with a Strong Focus
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandemataram15aug1947&show_icons=true&locale=en" alt="vandemataram15aug1947" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandemataram15aug1947&" alt="vandemataram15aug1947" /></p>
+
 
