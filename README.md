@@ -12,7 +12,7 @@ Passionate and Dedicated Power Electronics Hardware Engineer with a Strong Focus
 
 - 🌱 Currently Working on **LLC Converter** with **SCI/UART** and **CAN Communication**  
 - 👨‍💻 Explore All My Projects on **[GitHub](https://github.com/vandemataram15aug1947)**  
-- 🌐 Visit My Portfolio: **[vandemataram15aug1947.github.io](https://vandemataram15aug1947.github.io)**  
+- 🌐 Visit My Portfolio: **[Portfolio Website](https://vandemataram15aug1947.github.io)**  
 - 💬 Ask Me About **Embedded C**, Firmware Development, and Microcontroller Applications  
 📫 Reach Me at **[Mail Id](mailto:vandemataram15aug1947@gmail.com)**
 
