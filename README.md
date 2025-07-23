@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vandemataram15aug1947/GitHub_Profile_and_Portfolio_Website/blob/ba873af7d4d94cd6d0b455d4587b5282c00717f5/GitHub%20Profile%20Pic.jpg" width="1000px" height="500px" alt="GitHub Profile">
+  <img src="" width="1000px" height="500px" alt="GitHub Profile">
 </p>
 
 <h1 align="center">Hi 👋, I'm Antu Roy</h1>
