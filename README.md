@@ -18,7 +18,7 @@ Passionate and Dedicated Power Electronics Hardware Engineer with a Strong Focus
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/vandemataram1947/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inkedin.com/in/vandemataram1947/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vandemataram1947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inkedin.com/in/vandemataram1947/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bewafa_4912?igsh=cnZhZzB5a2Yydjlj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
 </p>
 
