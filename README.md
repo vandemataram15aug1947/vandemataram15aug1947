@@ -10,19 +10,17 @@ Passionate and Dedicated Power Electronics Hardware Engineer with a Strong Focus
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
 </p>
 
-
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px" height="300px" alt="Animated Sine Wave">
-</p>
-
 - 🌱 Currently working on **LLC Converter** with **SCI/UART** and **CAN Communication**  
 - 👨‍💻 Explore all my projects on **[GitHub](https://github.com/vandemataram15aug1947?tab=repositories)**  
 - 🌐 Visit my portfolio: **[vandemataram15aug1947.github.io](https://vandemataram15aug1947.github.io)**  
 - 💬 Ask me about **Embedded C**, firmware development, and microcontroller applications  
 - 📫 Reach me at **vandemataram15aug1947@gmail.com**
+
+  
+- 🌱 I’m currently working on **LLC Converter** SCI/UART and CAN Communication 
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/vandemataram15aug1947?tab=repositories)**
+- 💬 Ask me about **Embedded C**
+- 📫 How to reach me **vandemataram15aug1947@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
